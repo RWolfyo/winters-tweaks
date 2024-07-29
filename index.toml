@@ -383,18 +383,8 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "90f207724a47d6b32f45c6a53da2539f544df944709418761ec8ede01a401a47"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
