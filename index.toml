@@ -37,6 +37,10 @@ file = "config/yosbr/config/replaymod.json"
 hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
 
 [[files]]
+file = "config/yosbr/config/resourcify.json"
+hash = "c48bb0e636bc45ccf6ff0956b31336463334adcc2e36bf7f83d60b98ca067d2a"
+
+[[files]]
 file = "config/yosbr/config/rrls.toml"
 hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
 
