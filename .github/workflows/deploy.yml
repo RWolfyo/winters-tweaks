@@ -11,6 +11,8 @@ on:
       - "index.toml"
       - "pack.toml"
 
+      workflow_dispatch:
+
 jobs:
   export_and_deploy:
     runs-on: ubuntu-latest
