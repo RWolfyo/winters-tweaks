@@ -1,13 +1,13 @@
 name = "Enhanced Block Entities"
-filename = "enhancedblockentities-0.10+1.20.4.jar"
+filename = "enhancedblockentities-0.10.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OVuFYfre/versions/xeHyTMq8/enhancedblockentities-0.10%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/OVuFYfre/versions/8OuTJDGd/enhancedblockentities-0.10.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "66a5203492195454f495ab39ba7d5338fa7f714b"
+hash = "36045df5f1b3e7645a5dd450fa305a8134dd7c51"
 
 [update]
 [update.modrinth]
 mod-id = "OVuFYfre"
-version = "xeHyTMq8"
+version = "8OuTJDGd"
