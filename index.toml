@@ -413,11 +413,6 @@ hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
 metafile = true
@@ -475,11 +470,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "6d7d1e314add75dbdae15536501766f27fbcfab1b1546fe131aa90db5e3795b6"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
 
 [[files]]
