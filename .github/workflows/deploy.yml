@@ -1,8 +1,8 @@
-name: Push To Main Continuous Deployment
+name: Push To 1.20.4 Continuous Deployment
 
 on:
   push:
-    branches: [main]
+    branches: [1.20.4]
     paths:
       - "config/**"
       - "mods/**"
@@ -24,20 +24,20 @@ jobs:
 
       - name: Export
         run: |
-          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "winters-tweaks-${{ steps.version.outputs.date }}.mrpack"
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "winters-tweaks-1.20.4-${{ steps.version.outputs.date }}.mrpack"
 
       - name: Deploy to GitHub
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          github-tag: ${{ steps.version.outputs.date }}
+          github-tag: "1.20.4-${{ steps.version.outputs.date }}"
           github-generate-changelog: true
           github-token: ${{ secrets.GH_TOKEN }}
 
-          name: ${{ steps.version.outputs.date }}
-          version: ${{ steps.version.outputs.date }}
+          name: "1.20.4-${{ steps.version.outputs.date }}"
+          version: "1.20.4-${{ steps.version.outputs.date }}"
           files: "*.mrpack"
           loaders: fabric
-          game-versions: ${{ vars.MC_VERSION }}
+          game-versions: "1.20.4"
 
       - name: Deploy to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
@@ -46,9 +46,9 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
 
-          name: ${{ steps.version.outputs.date }}
-          version: ${{ steps.version.outputs.date }}
+          name: "1.20.4-${{ steps.version.outputs.date }}"
+          version: "1.20.4-${{ steps.version.outputs.date }}"
           files: "*.mrpack"
           loaders: fabric
-          game-versions: ${{ vars.MC_VERSION }}
+          game-versions: "1.20.4"
           changelog: "Changelog: https://www.github.com/RWolfyo/winters-tweaks/releases/tag/${{ steps.version.outputs.date }}/"
