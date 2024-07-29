@@ -1,8 +1,9 @@
-name: Push To 1.20.4 Continuous Deployment
+name: Push Continuous Deployment
 
 on:
   push:
-    branches: [1.20.4]
+    branches:
+      - '1.20.4'
     paths:
       - "config/**"
       - "mods/**"
@@ -18,26 +19,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate version
+      - name: Generate branch name and version
         id: version
-        run: echo "date=$(date +'%Y-%m-%d-%H-%M')" >> $GITHUB_OUTPUT
+        run: |
+          echo "branch_name=${GITHUB_REF##*/}" >> $GITHUB_OUTPUT
+          echo "date=$(date +'%Y-%m-%d-%H-%M')" >> $GITHUB_OUTPUT
 
       - name: Export
         run: |
-          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "winters-tweaks-1.20.4-${{ steps.version.outputs.date }}.mrpack"
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "winters-tweaks-${{ steps.version.outputs.branch_name }}-${{ steps.version.outputs.date }}.mrpack"
 
       - name: Deploy to GitHub
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          github-tag: "1.20.4-${{ steps.version.outputs.date }}"
+          github-tag: "${{ steps.version.outputs.branch_name }}-${{ steps.version.outputs.date }}"
           github-generate-changelog: true
           github-token: ${{ secrets.GH_TOKEN }}
 
-          name: "1.20.4-${{ steps.version.outputs.date }}"
-          version: "1.20.4-${{ steps.version.outputs.date }}"
+          name: "${{ steps.version.outputs.branch_name }}-${{ steps.version.outputs.date }}"
+          version: "${{ steps.version.outputs.branch_name }}-${{ steps.version.outputs.date }}"
           files: "*.mrpack"
           loaders: fabric
-          game-versions: "1.20.4"
+          game-versions: "${{ steps.version.outputs.branch_name }}"
 
       - name: Deploy to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
@@ -46,9 +49,9 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: any
 
-          name: "1.20.4-${{ steps.version.outputs.date }}"
-          version: "1.20.4-${{ steps.version.outputs.date }}"
+          name: "${{ steps.version.outputs.branch_name }}-${{ steps.version.outputs.date }}"
+          version: "${{ steps.version.outputs.branch_name }}-${{ steps.version.outputs.date }}"
           files: "*.mrpack"
           loaders: fabric
-          game-versions: "1.20.4"
+          game-versions: "${{ steps.version.outputs.branch_name }}"
           changelog: "Changelog: https://www.github.com/RWolfyo/winters-tweaks/releases/tag/${{ steps.version.outputs.date }}/"
