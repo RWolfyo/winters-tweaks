@@ -62,7 +62,7 @@ hash = "58d65e6f171c48a7e72fae6165deb94a58695c11b9b8ae45d7bc538f7bceb05d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
+hash = "1afa3d4cc64e64899fd0c113936d8bef92e5a99aab3d42b14269503582fd38a8"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "0543bf0e7d7ac48e221c7e97b55ca7add1c8a1a4b9c5d487688782472fe287b9"
+hash = "611dd38f46108493b1d0b63cb3580d522b42d43e6680ab07de74f51224e18a10"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
+hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
+hash = "49f9898e97206a5407ca32e7fee73cf7bd901e0c4406da8bb4adbc31525f1397"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
+hash = "fc3dd0b7562e5d57d0b95588ab5f961f9cfa4c622c90e27d41b5fcaf2638c178"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
+hash = "9b561d57bf92aa8005e567e4bb95a2b65c8ed9c3ab30de09ea6c7e66f2e4d2da"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "d35ab379600ac244aaf1d38c81e3e54126599159188edc9bb4ba2198ebbf19bb"
+hash = "dded62ce10d426f4948edb2561bf8c7500c73376708312ae49c118447195d50f"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
+hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8d5faf87042e588f604e54a0e8dc1b269a4d1120b1c9570b2837f290f38a715b"
+hash = "943ecde7b1ef9fdbf8c059581e420b50440739f9a8962c3858d92c7c0b52eb06"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "5c69ebc94dea5c38f397990c14e0def4732c2fab19625f5e9a8e92a845d858a9"
+hash = "70c0efbdfa18c5fbe7cc613e258d3f42e5ff276cc301c4109bf511898177d49b"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f474df1d652f6286874e95c4b754e59b52b84b12afe2e3c9162a42344426a852"
+hash = "3942461204beae8e1876528bb2fbfbaed242dec40f46bc89ee5ab1e74a4f0985"
 metafile = true
 
 [[files]]
