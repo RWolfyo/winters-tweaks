@@ -164,11 +164,6 @@ hash = "03c5f2c05875f2ba220546384f02e829b24ff7da8238e7fa450d6f5cb799b1f1"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "9c53525f134887cf39c8623bea18caea0a0c48fa71881077f6a9c5fce5dcc5da"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "3838319de7c80fa031bcc295aa1a05515ff27fac65d817aecd2cff0c8b8123e0"
 metafile = true
@@ -181,11 +176,6 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "594c424b94c795141caa8dcf311f00f06761acef6dc035643f0430b79fec845e"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "9831c303787202296c85b548c9139a5f2c67471f22bad772a5da55b5859036e3"
 metafile = true
 
 [[files]]
@@ -369,13 +359,8 @@ hash = "8dbd95d99f609441283fa864d842d53414bd38f37f72a790a63c71214f1c1688"
 metafile = true
 
 [[files]]
-file = "mods/litemoretica.pw.toml"
-hash = "668bdefb1b80c55225689bf5c1e7e84b23331803848f0969454ca946cea46c71"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
-hash = "3b4802b8a6452541451892adfaede3dab9f03587b3cbd0e9e3e5d9c28cf9281c"
+hash = "eb0304f36a99dd0ae2e4d5ca325cca5c26c15772c81622fecd8a11cd7c5e6436"
 metafile = true
 
 [[files]]
