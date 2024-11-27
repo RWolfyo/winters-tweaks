@@ -1,13 +1,13 @@
 name = "Presence Footsteps"
-filename = "PresenceFootsteps-1.10.0+1.21.jar"
+filename = "PresenceFootsteps-1.10.2+1.21.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/4CjXUG8M/PresenceFootsteps-1.10.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/vmAQCAgU/PresenceFootsteps-1.10.2%2B1.21.3.jar"
 hash-format = "sha1"
-hash = "bb166be2790dbcd57427534c8fed18c305d2fd6b"
+hash = "9aa071bb53fa477f6c21a99e94b9bc60668a5aee"
 
 [update]
 [update.modrinth]
 mod-id = "rcTfTZr3"
-version = "4CjXUG8M"
+version = "vmAQCAgU"

@@ -1,13 +1,13 @@
 name = "Litematica Printer"
-filename = "litematica-printer-1.21-3.2.1.jar"
+filename = "litematica-printer-1.21.3-3.5.0-sakura.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3llatzyE/versions/ouKKEivc/litematica-printer-1.21-3.2.1.jar"
+url = "https://cdn.modrinth.com/data/3llatzyE/versions/4iHKDmLW/litematica-printer-1.21.3-3.5.0-sakura.6.jar"
 hash-format = "sha1"
-hash = "6b91a881a9227d1a16fba7d7bb61ebbfc24f9690"
+hash = "b029f16531ac00cb3abb0dccde8bda7eaefe102f"
 
 [update]
 [update.modrinth]
 mod-id = "3llatzyE"
-version = "ouKKEivc"
+version = "4iHKDmLW"
