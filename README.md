@@ -5,7 +5,7 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/faNqEX4o)
 
 Welcome to Winter's Tweaks, a fork of Avery's Essentials. This modpack includes all the features of the original Avery's Essentials with additional visual and sound enhancements, as well as some comfort mods.
-# USE JAVA 22 FOR 1.21.3!!!
+# USE JAVA 22+ FOR 1.21.3!!!
 
 You can download Winter's Tweaks via Modrinth.
 [Link](https://modrinth.com/modpack/winters-tweaks)
