@@ -34,8 +34,6 @@ You can download Winter's Tweaks via Modrinth.
 
 The following mods are not on Modrinth, so their credits are listed here:
 
-- [Carpet - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet)
-- [Carpet Extra - Gnembon](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
 - [Syncmatica - End-Tech (original), Sakura Ryoko (update)](https://github.com/sakura-ryoko/syncmatica)
 
 These mods are included with permission from their authors or licenses. If any author has problems with me including their mod(s) in this modpack, feel free to contact me and I will remove it as soon as possible.
