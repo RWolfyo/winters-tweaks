@@ -3,11 +3,11 @@ filename = "BadOptimizations-2.2.1-1.21.2-21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/6rj4ljlO/BadOptimizations-2.2.1-1.21.2-21.4.jar"
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar"
 hash-format = "sha1"
-hash = "49fd119f79d0c0f50f8f60e5e071081faf0d012d"
+hash = "8bafe2a3ce1a3c6c48bb243dde3cbd9c5b510a01"
 
 [update]
 [update.modrinth]
 mod-id = "g96Z4WVZ"
-version = "6rj4ljlO"
+version = "EPTfY6pQ"
