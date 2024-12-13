@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "93b698c53e5882657d76f007da2a46a1baea4ece400d7d5e4e76c6680f790c4d"
+hash = "35ebd4155e299eb16b9e560596fdf19b15c6682b2d9fb1555f808d6c7b2ccfb1"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
+hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
 metafile = true
 
 [[files]]
@@ -200,12 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
+hash = "4700fcc4fa1f3565cf3ef54dad8673bc940d83652b07dd2461c88b4a5b38aa16"
 metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "dc193f3d36633aec69e42ad8690b7518ab8c12b5c558af05abc2cfc7cc08497a"
+hash = "6998d829cbde90d0303cd0a3fc9b7d403786affbae978664b67446980582e509"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "03e71ca4ecc9dc66657a5b58cb11eaecd21ffaf445682c7d9d761d5359615985"
+hash = "129e8e41a2c4da6b61ca3818cd98f0759f40e39fbac367d45a30511e76c2ac37"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "43b9c78a94e04e1cf36dc23c895451e8cb737744869aa7e0c1828b6de1352241"
+hash = "9e2d2f5635c8ab1cba1ee77a4b9d23a0173b01417613db0cc8dab60465522662"
 metafile = true
 
 [[files]]
@@ -575,12 +575,17 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-hash = "15b38748b9f9074323280ff8bddb458901c621c1dd700879d367750d3afdcb1a"
+hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "85804028a86f54dfeb203a7f98f3bae0f69da0f069b06e678d1f9f5f7356a3e4"
+metafile = true
+
+[[files]]
+file = "mods/texturized-particles.pw.toml"
+hash = "21978fc6b237f7f76d97b8f7e8a1936e87c934fa8266ea60e16f8cbe7b97844b"
 metafile = true
 
 [[files]]
@@ -620,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ff6d3f0a6917b90002a20c58c361f634ed388832ef1110e071fda37a1d17c834"
+hash = "15b1e52682f03843436cf2fa2b75354ad135f0f813cc6b4c935eda230cf7dfa9"
 metafile = true
 
 [[files]]
@@ -630,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "542f255ecb3583b40b17c581fa05f78442b6a25574e0c06cebff4a3635f991e3"
+hash = "d93b391debdb6399b5e6fb6c4fea23a1c0fafa22efe51d8ab76bc4dbc94b1044"
 metafile = true
 
 [[files]]

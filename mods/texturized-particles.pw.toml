@@ -1,0 +1,13 @@
+name = "Texturized Particles"
+filename = "Texturized Particles-1.0.1+1.21.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/MasHYMot/Texturized%20Particles-1.0.1%2B1.21.2.jar"
+hash-format = "sha512"
+hash = "e8d25e075ac33942e5a800f2caaea2354286b451c9d63328d5dc3ec5b6b96d836ecc5ac40a9d0bb22a566349cae3ee0f5884c5f2f7000e20475f19d1072db2e1"
+
+[update]
+[update.modrinth]
+mod-id = "PLAGcSFJ"
+version = "MasHYMot"
