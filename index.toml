@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "9bb4a57561a204c83cd3fd5ba8518ec59bd5a3cd78e6ca3fbf716f6cdccd5d38"
+hash = "e50b94c5adefca87dcf870dec1c9c273427487802128f734c068ecad536ceb21"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "16dbaca6ead0782c38759729d228b863119f104c10b3a0e85a7875c3111a611e"
+hash = "2b36d7182dd84b76e529770f82fe3418e7a6913cc1e34c6d333956821c38c910"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "bf3a50b4962319fdc9bcdb9b56aa5af1d674a16740c36f5732cb8fe91aafb46f"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
 metafile = true
 
 [[files]]
