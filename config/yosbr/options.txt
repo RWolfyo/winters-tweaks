@@ -1,4 +1,4 @@
-version:3700
+version:4440
 autoJump:false
 operatorItemsTab:true
 enableVsync:true
@@ -9,9 +9,10 @@ screenEffectScale:0.0
 darknessEffectScale:0.0
 narratorHotkey:false
 gamma:1.0
+guiScale:2
 maxFps:260
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Fast Better Grass.zip","itemswapper:default"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none

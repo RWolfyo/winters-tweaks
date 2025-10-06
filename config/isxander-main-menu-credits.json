@@ -1,6 +1,6 @@
 {
   "main_menu": {
-    "top_left": ["Winter's Tweaks", "by RWolfyo", "Based on Avery's Essentials"],
+    "top_left": ["Winter's Tweaks", "by RWolfyo"],
     "top_right": [],
     "bottom_left": [],
     "bottom_right": [],
@@ -8,13 +8,7 @@
   },
   "pause_menu": {
     "top_left": [
-      "Default configuration menu key bindings:",
-      "M + C | Litematica",
-      "H + C | MiniHUD",
-      "X + C | Tweakeroo",
-      "K + C | Tweakermore",
-      "I + C | Item Scroller",
-	  "R + C | Inventory Profiles Next"
+      "boobs"
     ],
     "top_right": [],
     "bottom_left": [],
