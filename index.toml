@@ -119,6 +119,11 @@ hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "41e6890a099b1c7b9739b83b483833ff2509a164158b5f802778433b5a5f44f9"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "f631864dbe9d422f6df661f380c6c8ddfe27b621671aa4dd8d049d0eaaf693dd"
 metafile = true
@@ -189,6 +194,16 @@ hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "d264afb5412f6f8e12d7ce75b4bfc8c752a5c41e520059593d583ce2e3490077"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "c57d916205ee03624a07c0fa783e75ec9fc03b509e4aee7e7ac7c91506ae3460"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "1188bf3d89a85bcfdc4f17bf02cf4e4a1bec1ccc3ecb50620b9b965d91b5dab6"
 metafile = true
@@ -219,6 +234,11 @@ hash = "4a3ea328ca3557f7bea8f8e62dbd873b0f854383e7ad88dd8d2d819e48ab9a64"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "dd54094b90e502a3c6ca7d031cb1a24a4551995663aa1f3fe431f771cca127a5"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
 metafile = true
@@ -231,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "84f74d4abc0ece0ed9f62d9454d35415ace97e0aa83ed3e8a2d1ff7167b45999"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "34684bd591ae5703edcbebe92b4066e7ff0365977a2fb804645644151d1b025c"
 metafile = true
 
 [[files]]
@@ -269,6 +294,11 @@ hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
+metafile = true
+
+[[files]]
 file = "mods/g4mespeed.pw.toml"
 hash = "21baee39053eced925f3b33c07ba66a8d14f8a0a8b3567aced44c30f986c32de"
 metafile = true
@@ -281,6 +311,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "42f43d0eca9aff401dfb9f0028ec074b25ad1df387bba589b02b0af3f26f8a5c"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "845b83afbc2dcd59343ac8f85c854c08139e140a649a10ca9084f49c0cfc57ab"
 metafile = true
 
 [[files]]
@@ -309,6 +349,11 @@ hash = "97385bd886d2fcad952fd7e76501300049237ec4a47a7b0240cf46138d9cc35a"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "e272c03ee9f508fb87884e93f049d62a495a338130a1f183373cca5cc8d04edc"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
@@ -316,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "1d19237dc3a66d87a018bafb3f69e701bcba8ba1fdef71d9a5f17222c15a3120"
 metafile = true
 
 [[files]]
@@ -339,6 +389,11 @@ hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "85fe187b2b5df41af3dbdea2ffa8505c2d0f0507d8f4d6bc88621d038fceee62"
 metafile = true
@@ -354,8 +409,18 @@ hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "27bf21267ffb04d59ff52404aad040bd5cf95ca90701ede8f240ce033dafa927"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "95fd90f7fda5f084e6e263384f7ecc06c7905e0efaf1360d5d8f081728a48fbd"
 metafile = true
 
 [[files]]
@@ -366,6 +431,16 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "14e980e7f1d355c10a65b9e433ed30e9111490f416230f85602a2881f2308876"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "92f712374ae7c661137f8dc3bef752c247c9e63384faadc34c4b87c1a9c70a85"
 metafile = true
 
 [[files]]
@@ -439,8 +514,8 @@ hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
 
 [[files]]
-file = "mods/servux.pw.toml"
-hash = "c11b177f4e740d5e10fffabc732c7fe27a89c0303c508fbb3cc2844cc34a03d3"
+file = "mods/searchables.pw.toml"
+hash = "1a563f0c589aced8101bb8a283af3725eedd1caaaaed4eb1987edfe3ff31c948"
 metafile = true
 
 [[files]]
@@ -474,6 +549,16 @@ hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "d723836984d883722b90aad252f68099ad6a1114a30034b377c56ea0ee1e275e"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "a259aff78abbf2e05b4260e5d1b24ceebab9994770d2b771842cdcf05f075088"
+metafile = true
+
+[[files]]
 file = "mods/texturized-particles.pw.toml"
 hash = "a6466266f149acca2ab353e066a7180479603135b510d62b01bdc25c0ace4006"
 metafile = true
@@ -491,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "61bc4e174087e60bf35c8f4ea21763186be5fd21e4aa7d0041e6838fdef3288e"
 metafile = true
 
 [[files]]
